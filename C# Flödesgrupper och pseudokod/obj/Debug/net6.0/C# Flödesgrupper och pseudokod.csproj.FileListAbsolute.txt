@@ -1,0 +1,15 @@
+C:\Users\Gabri\Desktop\Programering\Skolarbete\C# Flödesgrupper och pseudokod\bin\Debug\net6.0\C# Flödesgrupper och pseudokod.exe
+C:\Users\Gabri\Desktop\Programering\Skolarbete\C# Flödesgrupper och pseudokod\bin\Debug\net6.0\C# Flödesgrupper och pseudokod.deps.json
+C:\Users\Gabri\Desktop\Programering\Skolarbete\C# Flödesgrupper och pseudokod\bin\Debug\net6.0\C# Flödesgrupper och pseudokod.runtimeconfig.json
+C:\Users\Gabri\Desktop\Programering\Skolarbete\C# Flödesgrupper och pseudokod\bin\Debug\net6.0\C# Flödesgrupper och pseudokod.dll
+C:\Users\Gabri\Desktop\Programering\Skolarbete\C# Flödesgrupper och pseudokod\bin\Debug\net6.0\C# Flödesgrupper och pseudokod.pdb
+C:\Users\Gabri\Desktop\Programering\Skolarbete\C# Flödesgrupper och pseudokod\obj\Debug\net6.0\C# Flödesgrupper och pseudokod.csproj.AssemblyReference.cache
+C:\Users\Gabri\Desktop\Programering\Skolarbete\C# Flödesgrupper och pseudokod\obj\Debug\net6.0\C# Flödesgrupper och pseudokod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabri\Desktop\Programering\Skolarbete\C# Flödesgrupper och pseudokod\obj\Debug\net6.0\C# Flödesgrupper och pseudokod.AssemblyInfoInputs.cache
+C:\Users\Gabri\Desktop\Programering\Skolarbete\C# Flödesgrupper och pseudokod\obj\Debug\net6.0\C# Flödesgrupper och pseudokod.AssemblyInfo.cs
+C:\Users\Gabri\Desktop\Programering\Skolarbete\C# Flödesgrupper och pseudokod\obj\Debug\net6.0\C# Flödesgrupper och pseudokod.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\Desktop\Programering\Skolarbete\C# Flödesgrupper och pseudokod\obj\Debug\net6.0\C# Flödesgrupper och pseudokod.dll
+C:\Users\Gabri\Desktop\Programering\Skolarbete\C# Flödesgrupper och pseudokod\obj\Debug\net6.0\refint\C# Flödesgrupper och pseudokod.dll
+C:\Users\Gabri\Desktop\Programering\Skolarbete\C# Flödesgrupper och pseudokod\obj\Debug\net6.0\C# Flödesgrupper och pseudokod.pdb
+C:\Users\Gabri\Desktop\Programering\Skolarbete\C# Flödesgrupper och pseudokod\obj\Debug\net6.0\C# Flödesgrupper och pseudokod.genruntimeconfig.cache
+C:\Users\Gabri\Desktop\Programering\Skolarbete\C# Flödesgrupper och pseudokod\obj\Debug\net6.0\ref\C# Flödesgrupper och pseudokod.dll
